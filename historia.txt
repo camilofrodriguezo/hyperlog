@@ -3,3 +3,5 @@ Esta es mi historia:
 Soy abogado, pero quiero aprender a programar. 
 Para crear una startup de legaltech.
 Aquí vamos...
+
+Esto es más difícil de lo que parece
